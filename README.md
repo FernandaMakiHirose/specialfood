@@ -3,6 +3,9 @@
 - IDE
 - Terminal
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Documentações usadas
 - [Ícones](https://icomoon.io/app/#/select)
 - [Transformar código HEX em HSL](https://htmlcolors.com/hex-to-hsl)
