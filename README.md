@@ -1,4 +1,4 @@
-# Criando um restaurante - Specialfood
+# Criando um restaurante - SpecialFood
 ## Requisitos
 - IDE
 - Terminal
