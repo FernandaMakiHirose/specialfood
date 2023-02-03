@@ -1,10 +1,4 @@
-# Criando um restaurante - SpecialFood
-## Requisitos
-- IDE
-- Terminal
-
-## Licença
-Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+# Restaurante SpecialFood
 
 ## Documentações usadas
 - [Ícones](https://icomoon.io/app/#/select)
